@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Stage - Spring Profiles App
+
+server:
+  port: 8083

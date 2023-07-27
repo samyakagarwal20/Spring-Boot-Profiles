@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Prod - Spring Profiles App
+
+server:
+  port: 8084

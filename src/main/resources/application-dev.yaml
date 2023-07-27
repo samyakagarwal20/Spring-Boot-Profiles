@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Dev - Spring Profiles App
+
+server:
+  port: 8081
